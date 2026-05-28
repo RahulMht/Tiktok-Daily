@@ -3,8 +3,15 @@
 ## The Visual Hero: The Vortex Wash
 The core visual anchor is the clear water basin holding tap water. When powered on, a miniature water tornado spins inside the transparent vessel. Floating particles, dust, and pet dander are pulled into the spinning liquid and trapped. There are no paper filters; dirty water is poured directly down a sink drain to reveal a clean basin.
 
-## Sensory & Ambient Lighting
-A vertical glow system illuminates the water basin. It offers seven solid glowing colors (Blue, Green, Purple, Red, Cyan, Yellow, White) and a dynamic cycling mode. It runs with a gentle, satisfying liquid bubble sound (natural ASMR water friction).
+## Visual Design & Connected Media References
+The device consists of a matte black, textured, dome-shaped top with curved air slits, sitting on a transparent bulbous basin. The ClickCrafters logo is printed on both parts. Depending on the connected reference asset used, the video must reflect its specific aesthetic features:
+
+- Standard Monochrome Variant (Ref: 3a7dab0b): Matte black dome on a completely clear, transparent glass-like basin. Minimalist, clean setup.
+- Purple UV Glow Variant (Ref: a357baea / 10c1fd10): Translucent, light purple tinted water basin. The unit is illuminated from within, casting a vibrant, soothing violet-indigo light into the water vortex and surrounding table.
+- White Internal Filter Variant (Ref: 1d7eb1fe): Transparent base with a clean, white cylindrical core visible inside the water chamber.
+
+## Sensory & Acoustics
+A vertical glow system illuminates the water basin. It runs with a gentle, satisfying liquid bubble sound (natural ASMR water friction).
 
 ## Physical Interactions & Scent-Scaping
 Users unscrew the lid or lift off the top dome of the unit. Drops of amber-colored essential oil or solid laundry scent beads are poured directly down into the tap water basin. When turned on, the water-based diffusion releases a fine, scent-rich vapor without pushing a heavy wet mist into the air.
