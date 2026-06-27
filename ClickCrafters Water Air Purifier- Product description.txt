@@ -1,23 +1,34 @@
-# Product Brief: ClickCrafters Vortex Water Air Purifier
+# Product Brief — ClickCrafters Water Air Revitalizer (7-Color LED)
 
-## The Visual Hero: The Vortex Wash
-The core visual anchor is the clear water basin holding tap water. When powered on, a miniature water tornado spins inside the transparent vessel. Floating particles, dust, and pet dander are pulled into the spinning liquid and trapped. There are no paper filters; dirty water is poured directly down a sink drain to reveal a clean basin.
+**Product URL (always include in the caption):**
+https://clickcrafters-us.com/collections/best-sellers/products/air-fresher-with-7-led-color-changing-light?variant=45445511348422
 
-## Visual Design & Connected Media References
-The device consists of a matte black, textured, dome-shaped top with curved air slits, sitting on a transparent bulbous basin. The ClickCrafters logo is printed on both parts. Depending on the connected reference asset used, the video must reflect its specific aesthetic features:
+---
 
-- Standard Monochrome Variant (Ref: 3a7dab0b): Matte black dome on a completely clear, transparent glass-like basin. Minimalist, clean setup.
-- Purple UV Glow Variant (Ref: a357baea / 10c1fd10): Translucent, light purple tinted water basin. The unit is illuminated from within, casting a vibrant, soothing violet-indigo light into the water vortex and surrounding table.
-- White Internal Filter Variant (Ref: 1d7eb1fe): Transparent base with a clean, white cylindrical core visible inside the water chamber.
+## What it is
+A water-based air revitalizer and aroma diffuser. You fill the clear basin with ordinary tap water; when it runs, the water moves in a gentle swirl that draws airborne dust, pet dander, and odor particles down into the liquid, where they're trapped. There are no paper filters — when the water gets dirty you simply pour it down the sink and refill. A built-in 7-color LED softly lights the basin.
 
-## Sensory & Acoustics
-A vertical glow system illuminates the water basin. It runs with a gentle, satisfying liquid bubble sound (natural ASMR water friction).
+## The visual hero — the gentle water swirl (KEEP IT SOFT)
+The anchor shot is the clear basin with the water swirling. **This is a small, soft, soothing swirl with light surface bubbling — not a dramatic tornado, not a violent spin, not a whirlpool.** Render it calm, slow, and mesmerizing. Particles drift toward the moving water and disappear under the surface. Any prompt that describes a "tight vortex," "tornado," "explosive swirl," or hard spinning is wrong for this product.
 
-## Physical Interactions & Scent-Scaping
-Users unscrew the lid or lift off the top dome of the unit. Drops of amber-colored essential oil or solid laundry scent beads are poured directly down into the tap water basin. When turned on, the water-based diffusion releases a fine, scent-rich vapor without pushing a heavy wet mist into the air.
+## Design & variants (match the connected reference image used)
+The unit is a matte-black, textured, dome-shaped top with curved air slits, seated on a transparent bulbous water basin. The ClickCrafters logo appears on both the dome and the basin. Render the variant shown in whichever reference image is bound:
 
-## Target Demographics & Core Desires
-- Pet Owners: Want to eliminate dog/cat smells, dander, and litter box odors.
-- Light Sleepers: Want soothing white noise acoustics combined with humidified air for sleeping.
-- Allergy Sufferers: Want to clear sinuses, eliminate morning stuffiness, and capture floating dust.
-- Home Estheticians: Love room resets, organizing, cozy nightstand setups, and sensory aromatherapy.
+- **Monochrome:** matte-black dome on a fully clear, transparent basin. Minimalist, clean.
+- **7-Color LED glow:** the LED lights the water from within — most commonly a soft violet/blue glow that casts a gentle colored light onto the basin and the surrounding surface.
+- **White-core:** transparent base with a clean white cylindrical core visible inside the water chamber.
+
+## Sound
+A gentle, satisfying liquid bubbling — natural ASMR water friction. Quiet enough to run while sleeping.
+
+## Aromatherapy interaction
+The dome **lifts off** (it is not screwed on tight). The user lifts the dome, adds a few drops of amber essential oil or a few solid scent beads directly into the tap water, then sets the dome back on. Running, it releases a light, scent-rich vapor — no heavy wet mist.
+
+## Target audiences (the agent picks ONE per video)
+- **Pet owners** — eliminate dog/cat smell, dander, and litter-box odor.
+- **Light sleepers** — soft white-noise bubbling plus fresher air for sleep.
+- **Allergy sufferers** — clearer sinuses, less morning stuffiness, less floating dust.
+- **Home estheticians** — cozy nightstand resets, organizing, sensory aromatherapy and self-care.
+
+## Reference images
+Multiple product reference images are provided in this repo. Use their raw public URLs as the `medias` array for video generation. Bind the clearest hero shot to the opening, and the dome/oil-drop shot to the demonstration cut.
